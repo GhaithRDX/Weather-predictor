@@ -14,7 +14,7 @@ Welcome to my weather forecasting project! 🌤️ In this repository, I’ve bu
   pip install numpy matplotlib prophet plotly
 
 ## Run the program:
-python weather_forecasting.py
+python weather_predictor.py
 
 ## Data
 I used the Daily Delhi Climate dataset (DailyDelhiClimateTrain.csv), focusing solely on temperature. You can find the dataset in the data directory.
